@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>272a0761-190e-404d-a718-a650753e0235</testSuiteGuid>
    <testCaseLink>
       <guid>c9c2b585-4594-41e1-aefa-ef640f098124</guid>
@@ -24,11 +25,6 @@
          </iterationEntity>
          <testDataId>Data Files/Product List</testDataId>
       </testDataLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>e316e7e7-cde2-4ff4-84f7-e4519410ab7c</variableId>
-      </variableLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

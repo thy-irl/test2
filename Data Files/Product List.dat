@@ -3,6 +3,7 @@
    <description></description>
    <name>Product List</name>
    <tag></tag>
+   <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>4d936c34-493b-477c-a69d-1b74a55fae75</dataFileGUID>

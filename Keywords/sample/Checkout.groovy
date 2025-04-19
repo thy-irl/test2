@@ -40,9 +40,8 @@ public class Checkout {
 		WebUI.setText(findTestObject('Pages/Checkout page/inputPostcode'), postCode)
 
 		WebUI.setText(findTestObject('Pages/Checkout page/inputPhone'), Phone)
-
 		BlockUIDismissed.WaitBlockUIDismissed()
-
+		
 		WebUI.click(findTestObject('Pages/Checkout page/btnPlaceOrder'))
 
 		BlockUIDismissed.WaitBlockUIDismissed()

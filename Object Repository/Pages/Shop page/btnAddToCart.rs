@@ -9,8 +9,13 @@
          <key>BASIC</key>
          <value>//*[@class = 'single_add_to_cart_button button alt']</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -18,5 +23,6 @@
       <name>class</name>
       <type>Main</type>
       <value>single_add_to_cart_button button alt</value>
+      <webElementGuid>dd1f20b7-2751-41bc-abb8-d623ae04c77d</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -3,6 +3,7 @@
    <description></description>
    <name>Multiple Checkout</name>
    <tag></tag>
+   <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>c4cbf718-68f0-47b5-bac2-d39d4856a3f9</dataFileGUID>

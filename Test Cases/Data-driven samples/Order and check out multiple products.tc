@@ -4,12 +4,15 @@
    <name>Order and check out multiple products</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>09a2e0dd-0e19-40d5-9769-5afa5972ebd5</testCaseGuid>
-   <variable>
-      <defaultValue>'Flying Ninja'</defaultValue>
-      <description></description>
-      <id>e316e7e7-cde2-4ff4-84f7-e4519410ab7c</id>
-      <masked>false</masked>
-      <name>productName</name>
-   </variable>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>cad10d47-604b-4f1e-adbf-0030cc4705f1</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Product List</testDataId>
+   </testDataLinks>
 </TestCaseEntity>
